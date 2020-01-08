@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"chtozaslova/chtozaslova-go"
+	"chtozaslova/chtozaslova"
 )
 
 func main() {
