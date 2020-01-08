@@ -1,0 +1,1 @@
+module chtozaslova/chtozaslova-go
