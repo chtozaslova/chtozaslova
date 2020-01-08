@@ -1,1 +1,3 @@
-module chtozaslova/chtozaslova-go
+module chtozaslova/chtozaslova
+
+go 1.13

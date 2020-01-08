@@ -11,7 +11,7 @@ Commons CC0 license. Please copy and distribute widely.
 ## Using the Go library
 
 ```
-    import "chtozaslova/chtozaslova-go"
+    import "chtozaslova/chtozaslova"
 
     ...
 
